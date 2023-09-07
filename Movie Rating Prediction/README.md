@@ -11,6 +11,6 @@ This Movie Rating Prediction has an accuracy of
 
   
 These Code can be executed here - 
-https://colab.research.google.com/drive/1LlT0Kdu2RFYPfWK7hDzArb6lgIfzu3ui?usp=sharing#scrollTo=cieq6kD-ehBS
+https://colab.research.google.com/drive/1LlT0Kdu2RFYPfWK7hDzArb6lgIfzu3ui?usp=sharing
 
 Coded by VIGNESHWARAN S
